@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vr.vr-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mode/libraries/vr/build/libs/vr-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

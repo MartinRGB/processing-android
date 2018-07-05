@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mode/tools/SDKUpdater/SDKUpdater.iml" filepath="$PROJECT_DIR$/.idea/modules/mode/tools/SDKUpdater/SDKUpdater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mode/libraries/libraries.iml" filepath="$PROJECT_DIR$/.idea/modules/mode/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mode/mode.iml" filepath="$PROJECT_DIR$/.idea/modules/mode/mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processing-android.iml" filepath="$PROJECT_DIR$/.idea/modules/processing-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mode/tools/tools.iml" filepath="$PROJECT_DIR$/.idea/modules/mode/tools/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mode/libraries/vr/vr.iml" filepath="$PROJECT_DIR$/.idea/modules/mode/libraries/vr/vr.iml" />
+    </modules>
+  </component>
+</project>
